@@ -1,0 +1,7 @@
+interface:
+  display_name: "扫描文档GPU识别"
+  short_description: "GPU识别扫描PDF正文、表格和内部插图并输出Markdown"
+  default_prompt: "使用 $scan-document-ocr 解析这份PDF，输出Markdown、表格、扫描页内部插图和监测数据。"
+
+policy:
+  allow_implicit_invocation: true

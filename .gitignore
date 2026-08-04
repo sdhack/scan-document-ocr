@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+outputs/
+*.pdf
+*.onnx
+*.engine
+checkpoint.json
+

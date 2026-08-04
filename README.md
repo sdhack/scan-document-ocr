@@ -1,6 +1,6 @@
 # Scan Document OCR
 
-一个基础GPU面向批量中文PDF OCR扫描的技能。它使用 WSL/Linux、RapidOCR、ONNX Runtime CUDA 和 RapidTable，把正文、表格与有效插图整理为 Markdown，并明确拒绝静默回退 CPU。
+一个基于GPU面向批量中文PDF OCR扫描的技能。它使用 WSL/Linux、RapidOCR、ONNX Runtime CUDA 和 RapidTable，把正文、表格与有效插图整理为 Markdown，并明确拒绝静默回退 CPU。
 
 ## 主要能力
 
